@@ -41,3 +41,5 @@ Comandos: (`console.log(Holla Mundo);`) entre crazes, se quiser comando mais lon
 										   ```
 
 ```
+
+[Link em pdf do guia em Markdown](./guia-markdown.pdf)
